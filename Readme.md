@@ -1,8 +1,12 @@
-klipper_dgus
+WORK IN PROGRESS!
+
+klipper_dgus porting to ender 7 Stock LCD 480x272 T5L
+
+
 ============
 A python project that connects a DGUS display to [Klipper](https://www.klipper3d.org/)
 
-The display i'm using here is a *DMG80480C043_02WTRZ07* (Stock Display of Anycubic Vyper 3D-Printer) which has a resolution 480x800. For this Display you can find the DGUS Project in the *dgus_project* folder.
+
 
 For Displays with other resolution, the Project must be recreated.
 
